@@ -1,2 +1,2 @@
-# quiz
- Quiz de programação
+## Quiz de perguntas sobre javascript
+
